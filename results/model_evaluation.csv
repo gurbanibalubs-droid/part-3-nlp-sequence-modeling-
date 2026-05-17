@@ -1,0 +1,4 @@
+Model,Type,Accuracy (%)
+Naive Bayes (BoW),Baseline,100.0
+Logistic Regression (TF-IDF),Baseline,100.0
+Bidirectional LSTM,Sequence Model,35.0

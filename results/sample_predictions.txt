@@ -1,0 +1,52 @@
+SAMPLE PREDICTIONS (LSTM Model)
+============================================================
+
+[1] ✗ WRONG
+Text : like new payment easy use ticket number...
+True : positive
+Pred : neutral
+
+[2] ✗ WRONG
+Text : great service clear communication support team...
+True : positive
+Pred : neutral
+
+[3] ✗ WRONG
+Text : refund still pending experience frustrating...
+True : negative
+Pred : neutral
+
+[4] ✗ WRONG
+Text : app crash whenever try use analytics...
+True : negative
+Pred : neutral
+
+[5] ✗ WRONG
+Text : response team helpful professional...
+True : positive
+Pred : neutral
+
+[6] ✓ CORRECT
+Text : someone explain difference plan...
+True : neutral
+Pred : neutral
+
+[7] ✗ WRONG
+Text : like new video call easy use...
+True : positive
+Pred : neutral
+
+[8] ✗ WRONG
+Text : like new report download easy use...
+True : positive
+Pred : neutral
+
+[9] ✓ CORRECT
+Text : someone explain difference plan...
+True : neutral
+Pred : neutral
+
+[10] ✓ CORRECT
+Text : want understand warranty term product...
+True : neutral
+Pred : neutral
